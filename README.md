@@ -6,14 +6,13 @@
 
 ## Ijust love **bold text**
 
-\*\*\*html
-
+```html
 <html>
-      <head>
-        <title></title>
-      </head>
-      <body>
-      <h1>Hi</h1>
-      </body>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <h1>Hi</h1>
+  </body>
 </html>
-***
+```
